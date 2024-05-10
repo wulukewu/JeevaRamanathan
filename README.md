@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Jeeva Ramanathan
 
 
-![Jeeva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeevaramanathan&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevaramanathan&theme=tokyonight)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jeevaramanathan&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevaramanathan&show_icons=true&theme=radical" alt="Jeeva's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevaramanathan&theme=tokyonight" alt="Top Langs" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevaramanathan&theme=tokyonight" alt="Streak Stats" height="180" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevaramanathan&label=Profile%20views&color=0e75b6&style=flat" alt="jeevaramanathan" /> </p>
 
