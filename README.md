@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Luke Ramanathan
+# Hi there 👋, I'm Luke
 
 ## 📊 GitHub Stats
 <p align="center">
